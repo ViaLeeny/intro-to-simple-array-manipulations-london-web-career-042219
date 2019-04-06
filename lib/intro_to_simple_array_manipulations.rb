@@ -1,3 +1,3 @@
-def using_push (array, portuguese = "oi")
-  hello.push(portuguese)
+def using_push (array, string)
+  array.push(string)
 end 
